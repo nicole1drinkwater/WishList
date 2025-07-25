@@ -1,5 +1,5 @@
 # WishList
-Wish list app with the ability to print your wish list out.
+Wish list app with the ability to add items to your wish list and print your wish list out on a piece of paper.
 
 Installation:
 
