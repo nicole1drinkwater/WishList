@@ -1,2 +1,2 @@
 # WishList
-Wish list app with a print function
+Wish list app with the ability to print your wish list out.
